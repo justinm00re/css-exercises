@@ -1,7 +1,7 @@
 body {
   background: #eee;
   font-family: sans-serif;
-
+  display: flex;
 }
 
 .card {
